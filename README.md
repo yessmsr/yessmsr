@@ -4,6 +4,7 @@
 Frontend Developer • QA Analyst • Computer Engineer
 </h3>
 
+
 ---
 
 
@@ -14,4 +15,6 @@ Frontend Developer • QA Analyst • Computer Engineer
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yessmsr&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yessmsr&theme=github_dark)
+
+---
 
