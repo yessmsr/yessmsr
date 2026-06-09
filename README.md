@@ -16,24 +16,3 @@ Frontend Developer • QA Analyst • Computer Engineer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yessmsr&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yessmsr&theme=github_dark)
 
----
-
-## 🛠 Tech Stack
-
-React • Angular • TypeScript • JavaScript
-
-Node.js • Python • Java
-
-Cypress • Selenium • Postman
-
-Azure DevOps • GitHub
-
----
-
-## 🚀 Experience
-
-💻 Frontend Developer & QA Specialist at Bitcode Enterprise
-
-🤖 AI Intern at Muscle Points
-
-🎓 Computer Engineer
