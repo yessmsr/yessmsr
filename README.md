@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Yessenia Solano</h1>
 
-<!--
-**yessmsr/yessmsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer • QA Analyst • Computer Engineer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Dashboard
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yessmsr&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yessmsr&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yessmsr&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yessmsr&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yessmsr&theme=github_dark)
+
+---
+
+## 🛠 Tech Stack
+
+React • Angular • TypeScript • JavaScript
+
+Node.js • Python • Java
+
+Cypress • Selenium • Postman
+
+Azure DevOps • GitHub
+
+---
+
+## 🚀 Experience
+
+💻 Frontend Developer & QA Specialist at Bitcode Enterprise
+
+🤖 AI Intern at Muscle Points
+
+🎓 Computer Engineer
