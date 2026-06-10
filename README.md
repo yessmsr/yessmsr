@@ -1,29 +1,25 @@
 <h1 align="center">Yessenia Solano</h1>
 
 <h3 align="center">
-Computer Engineer  • QA Analyst
+Computer Engineer • Frontend Developer • QA Analyst
 </h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yessmsr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yessmsr&theme=github_dark)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yessmsr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=yessmsr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent)
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yessmsr&hide_border=true" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yessmsr&theme=dark&hide_border=true)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yessmsr&theme=github_dark)
 
-## Contribution Activity
+## Technologies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yessmsr&hide_border=true&area=true" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
