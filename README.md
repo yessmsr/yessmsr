@@ -11,7 +11,6 @@ Computer Engineer • Frontend Developer • QA Analyst
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
 ![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3)
 
